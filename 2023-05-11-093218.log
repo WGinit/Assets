@@ -1,0 +1,2 @@
+time="2023-05-11T09:32:19+08:00" level=info msg="RESTful API listening at: 127.0.0.1:51325"
+time="2023-05-11T09:32:19+08:00" level=info msg="Redir proxy listening at: 127.0.0.1:7892"
